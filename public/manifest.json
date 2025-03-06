@@ -1,0 +1,21 @@
+{
+    "name": "Docugénie",
+    "short_name": "Docugénie",
+    "description": "Archive Génie informatique",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#1F252E",
+    "theme_color": "#1F252E",
+    "icons": [
+        {
+            "src": "/images/archiver (1).png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/archiver (1).png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
